@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saptarshi Nandi
 - 👀 I’m interested in ...Code
-- 🌱 I’m currently learning ...c++
+
 
 .
 
